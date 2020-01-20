@@ -1,0 +1,14 @@
+{
+  "root": "./",
+
+  "in": "src/",
+  "out": "dist/",
+
+  "fonts": "fonts/",
+  "img": "img/",
+  "scss": "scss/",
+  "svg": "svg/",
+  "js": "js/",
+
+  "css": "css/"
+}
